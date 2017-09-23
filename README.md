@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="logo/chatbotsf.png" alt="SFNode" />  
+  <img src="logo/chatbotsf.png" alt="Chatbot SF" />  
 </p>
 
-# chatbot SF Contribute
+# Chatbot SF Contribute
 
 Chatbot SF Meetup is a community of bot enthusiasts, developers, entrepreneurs, anyone interested in chatbot space. We meet on the 3rd Thursday of each month.
 
-[Propose a topic, talk, speaker, or location for Chatbot SF.](http://www.meetup.com/chatbotsf/)
+[Propose a topic, talk, speaker, or location for Chatbot SF Meetup.](http://www.meetup.com/chatbotsf/)
 
 ### For talk proposals open an [issue](https://github.com/chatbotsf/chatbotsf/issues) that includes:
 
