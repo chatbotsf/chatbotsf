@@ -19,7 +19,7 @@ Chatbot SF Meetup is a community of bot enthusiasts, developers, entrepreneurs, 
 - Are you going to be live coding?
 - Do you need audio from your computer?
 
-### For hosting opportunities open an issue or email us with answers to the following questions:
+### For hosting opportunities open an [issue](https://github.com/chatbotsf/chatbotsf/issues) or [email us](mailto:team.chatbotsf@gmail.com) with answers to the following questions:
 
 - What is the address, floor, room name if any, entrance instructions?
 - Do we need to submit an attendee list for security purposes?
